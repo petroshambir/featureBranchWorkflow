@@ -1,0 +1,4 @@
+## ignored file .log and settings
+*.json
+
+*.log
